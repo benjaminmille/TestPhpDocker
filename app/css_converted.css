@@ -1,0 +1,24 @@
+.my-flowers {
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+}
+.my-flowers .are .beautiful {
+	color: #00f;
+}
+.my-flowers .are .ugly {
+	color: #f00;
+	width: 15px;
+}
+.my-flowers .are .ugly:hover {
+	color: #0f0 ;
+}
+.my-tailor {
+	height: 120px ;
+}
+.my-tailor .is-rich {
+	content: '$';
+}
+.my-tailor .is-not-rich {
+	content: '-1';
+}
